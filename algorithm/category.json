@@ -37,6 +37,7 @@
          "bfs": "BFS",
          "bridges": "Find-Bridges",
          "dfs": "DFS",
+         "dls": "Depth-Limited Search",
          "dijkstra": "Dijkstra",
          "floyd_warshall": "Floyd-Warshall",
          "page_rank": "PageRank Algorithm",
@@ -85,7 +86,8 @@
          "quick": "Quicksort",
          "radix": "Radix Sort",
          "selection": "Selection Sort",
-         "shell": "Shellsort"
+         "shell": "Shellsort",
+         "pancake": "Pancake Sort"
       },
       "name": "Sorting"
    },
